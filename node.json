@@ -1,5 +1,5 @@
 {
-    "name": "Flap Display",
+    "name": "Flappy",
     "control_ui": "control.html",
     "options": [{
         "title": "Size",
@@ -28,6 +28,6 @@
         "name": "text",
         "type": "text",
         "rows": 10,
-        "default": "This is a flappy display\nEnter your text here\n"
+        "default": "Dies is a flappy display\nEnter your text here\n"
     }]
 }
